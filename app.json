@@ -1,29 +1,35 @@
 {
   "expo": {
-    "name": "Natively",
-    "slug": "Natively",
+    "name": "BoardGameApp",
+    "slug": "boardgameapp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./public/pwa-64x64.png",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
-      "image": "./public/pwa-512x512.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#1A237E"
     },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.boardgameapp"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./public/pwa-512x512.png",
-        "backgroundColor": "#ffffff"
-      }
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1A237E"
+      },
+      "package": "com.boardgameapp"
     },
     "web": {
-      "favicon": "./public/pwa-64x64.png",
-      "bundler": "metro"
-    }
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }

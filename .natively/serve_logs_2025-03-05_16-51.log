@@ -1,0 +1,59 @@
+ INFO  Accepting connections at http://localhost:8082
+ HTTP  3/5/2025 4:52:00 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 4:52:00 PM 172.20.0.1 Returned 200 in 14 ms
+ HTTP  3/5/2025 4:52:00 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/5/2025 4:52:00 PM 172.20.0.1 Returned 200 in 3 ms
+ HTTP  3/5/2025 4:52:00 PM 172.20.0.1 GET /_expo/static/js/web/index-a499d4475543163afdda1645928bfc09.js
+ HTTP  3/5/2025 4:52:00 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/5/2025 4:52:00 PM 172.20.0.1 GET /assets/public/icosahedron.ea5d98412472b7885d87e61ee4b67a63.svg
+ HTTP  3/5/2025 4:52:00 PM 172.20.0.1 Returned 200 in 1 ms
+ HTTP  3/5/2025 4:53:21 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 4:53:21 PM 172.20.0.1 Returned 200 in 3 ms
+ HTTP  3/5/2025 4:53:22 PM 172.20.0.1 GET /_expo/static/js/web/index-6ced271184cff9bacf5597fd610da534.js
+ HTTP  3/5/2025 4:53:22 PM 172.20.0.1 Returned 200 in 4 ms
+ HTTP  3/5/2025 4:53:38 PM 172.20.0.1 GET /assets/node_modules/@react-navigation/elements/lib/module/assets/back-icon.35ba0eaec5a4f5ed12ca16fabeae451d.png
+ HTTP  3/5/2025 4:53:38 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/5/2025 4:53:55 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 4:53:55 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 4:53:55 PM 172.20.0.1 GET /_expo/static/js/web/index-6ced271184cff9bacf5597fd610da534.js
+ HTTP  3/5/2025 4:53:55 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 4:53:55 PM 172.20.0.1 GET /_expo/static/css/global-f72a62d2075c8088ba50a67e66d8290e.css
+ HTTP  3/5/2025 4:53:55 PM 172.20.0.1 Returned 404 in 1 ms
+ HTTP  3/5/2025 4:53:55 PM 172.20.0.1 GET /_expo/static/js/web/index-a499d4475543163afdda1645928bfc09.js
+ HTTP  3/5/2025 4:53:55 PM 172.20.0.1 Returned 404 in 1 ms
+ HTTP  3/5/2025 4:53:55 PM 172.20.0.1 GET /assets/public/icosahedron.ea5d98412472b7885d87e61ee4b67a63.svg
+ HTTP  3/5/2025 4:53:55 PM 172.20.0.1 Returned 404 in 1 ms
+ HTTP  3/5/2025 4:54:21 PM 172.20.0.1 GET /assets/node_modules/@react-navigation/elements/lib/module/assets/back-icon.35ba0eaec5a4f5ed12ca16fabeae451d.png
+ HTTP  3/5/2025 4:54:21 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 4:54:25 PM 172.20.0.1 GET /assets/node_modules/@react-navigation/elements/lib/module/assets/back-icon.35ba0eaec5a4f5ed12ca16fabeae451d.png
+ HTTP  3/5/2025 4:54:25 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 4:54:30 PM 172.20.0.1 GET /assets/node_modules/@react-navigation/elements/lib/module/assets/back-icon.35ba0eaec5a4f5ed12ca16fabeae451d.png
+ HTTP  3/5/2025 4:54:30 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 4:54:37 PM 172.20.0.1 GET /assets/node_modules/@react-navigation/elements/lib/module/assets/back-icon.35ba0eaec5a4f5ed12ca16fabeae451d.png
+ HTTP  3/5/2025 4:54:37 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 4:54:44 PM 172.20.0.1 GET /assets/node_modules/@react-navigation/elements/lib/module/assets/back-icon.35ba0eaec5a4f5ed12ca16fabeae451d.png
+ HTTP  3/5/2025 4:54:44 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 4:54:51 PM 172.20.0.1 GET /assets/node_modules/@react-navigation/elements/lib/module/assets/back-icon.35ba0eaec5a4f5ed12ca16fabeae451d.png
+ HTTP  3/5/2025 4:54:51 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 4:58:10 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 4:58:10 PM 172.20.0.1 Returned 200 in 2 ms
+ HTTP  3/5/2025 5:02:16 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 5:02:16 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 5:02:16 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 5:02:16 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 5:02:17 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 5:02:17 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 5:02:21 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 5:02:21 PM 172.20.0.1 Returned 304 in 0 ms
+ HTTP  3/5/2025 5:03:26 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 5:03:26 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 5:04:29 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 5:04:29 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 5:07:25 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 5:07:25 PM 172.20.0.1 Returned 304 in 2 ms
+ HTTP  3/5/2025 5:09:31 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 5:09:31 PM 172.20.0.1 Returned 304 in 2 ms
+ HTTP  3/5/2025 5:10:54 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 5:10:54 PM 172.20.0.1 Returned 304 in 1 ms
+ HTTP  3/5/2025 5:10:55 PM 172.20.0.1 GET /
+ HTTP  3/5/2025 5:10:55 PM 172.20.0.1 Returned 304 in 1 ms
