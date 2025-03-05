@@ -1,0 +1,1 @@
+I'll help you fix the linting errors in the Theme.kt file. First, let me read its contents.

@@ -1,0 +1,1 @@
+I'll help you fix the linting errors. First, let me read the file content.
